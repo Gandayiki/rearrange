@@ -1,7 +1,6 @@
 Rearrange 
-
-=============================================
-this modele is used for rearranging names.
+==========
 
 
-=============================================
+this module is used for rearranging names.
+
